@@ -7,7 +7,7 @@ Around mid 2017, DeepMind and Blizzard (the creators of StarCraft II) announced 
 
 ![](c.jpg)
 
-we will be using pure Computer vision and Deep Learning here!
+we will be using pure Computer vision and Deep Learning here! The entire code is in two python scripts, one with the rule based architechture and the other with deep learning framework used.
 
 ![](a.jpg)
 
